@@ -1,0 +1,27 @@
+body{
+    background-color:bisque;
+}
+
+li{
+    display: inline;
+}
+
+a:link{
+    background-color: blueviolet;
+    padding: 10px;
+}
+a:hover{
+    color: red;
+
+}
+a:visited{
+    color: white;
+}
+
+.div1{
+    background-color: white;
+}
+
+.div2{
+    background-color: white;
+}
